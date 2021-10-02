@@ -1,7 +1,7 @@
 # app-react-native
 
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 Projeto Reacct-Native</a>
+    <a href="https://reactnative.dev/">🔗 Projeto Reacct-Native</a>
 </h1>
 
 <h4 align="center"> 
