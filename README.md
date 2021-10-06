@@ -11,10 +11,8 @@
 ### Telas a fazer
 
 - [ ] Splash
-- [ ] Login
-- [ ] Cadastro de usuário
-- [ ] Cadastro de cliente
-- [ ] Cadastro de produtos
+- [ ] Login (Criar cadastro)
+- [ ] Cadastro de usuário (Login)
 
 ### Pré-requisitos
 
